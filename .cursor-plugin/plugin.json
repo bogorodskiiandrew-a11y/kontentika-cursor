@@ -1,0 +1,12 @@
+{
+  "name": "kontentika",
+  "displayName": "Kontentika",
+  "description": "Connect Cursor to an authorized Kontentika workspace.",
+  "version": "1.0.0",
+  "author": { "name": "Kontentika", "email": "info@kontentika.app" },
+  "homepage": "https://kontentika.app/connector-guide.md",
+  "repository": "https://github.com/bogorodskiiandrew-a11y/kontentika-cursor",
+  "license": "MIT",
+  "keywords": ["mcp", "kontentika", "content", "advertising"],
+  "mcpServers": "./mcp.json"
+}
